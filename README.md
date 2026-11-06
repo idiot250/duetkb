@@ -1,1 +1,1 @@
-# splitkb
+# duetkb
