@@ -1955,7 +1955,7 @@
 	)
 	(global_label "Col 3"
 		(shape input)
-		(at 193.04 96.52 180)
+		(at 184.15 96.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1965,7 +1965,7 @@
 		)
 		(uuid "08a51b0f-4df0-438b-9922-511e5ba40933")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.7824 96.52 0)
+			(at 175.8924 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1979,7 +1979,7 @@
 	)
 	(global_label "Col 9"
 		(shape input)
-		(at 193.04 111.76 180)
+		(at 184.15 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1989,7 +1989,7 @@
 		)
 		(uuid "110163ab-f66c-4404-bf03-10e8dca38b2d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.7824 111.76 0)
+			(at 175.8924 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2003,7 +2003,7 @@
 	)
 	(global_label "Col 5"
 		(shape input)
-		(at 193.04 101.6 180)
+		(at 184.15 101.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2013,7 +2013,7 @@
 		)
 		(uuid "21338c0a-82e5-489f-97f1-85530775d66f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.7824 101.6 0)
+			(at 175.8924 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2027,7 +2027,7 @@
 	)
 	(global_label "Col 8"
 		(shape input)
-		(at 193.04 109.22 180)
+		(at 184.15 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2037,7 +2037,7 @@
 		)
 		(uuid "23e95dbd-7b9a-4ac6-8e13-309cd7aeb552")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.7824 109.22 0)
+			(at 175.8924 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2051,7 +2051,7 @@
 	)
 	(global_label "Col 6"
 		(shape input)
-		(at 193.04 104.14 180)
+		(at 184.15 104.14 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2061,7 +2061,7 @@
 		)
 		(uuid "3008d7ee-c84a-496f-b16b-7a4ebf6f2ea1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.7824 104.14 0)
+			(at 175.8924 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2099,7 +2099,7 @@
 	)
 	(global_label "Col 1"
 		(shape input)
-		(at 193.04 91.44 180)
+		(at 184.15 91.44 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2109,7 +2109,7 @@
 		)
 		(uuid "53187659-341d-41ce-90a5-68b2512577ec")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.7824 91.44 0)
+			(at 175.8924 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2123,7 +2123,7 @@
 	)
 	(global_label "Col 7"
 		(shape input)
-		(at 193.04 106.68 180)
+		(at 184.15 106.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2133,7 +2133,7 @@
 		)
 		(uuid "6943cb4d-d875-43a9-805f-cabfc18ba226")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.7824 106.68 0)
+			(at 175.8924 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2243,7 +2243,7 @@
 	)
 	(global_label "Row 1"
 		(shape input)
-		(at 193.04 83.82 180)
+		(at 184.15 83.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2253,7 +2253,7 @@
 		)
 		(uuid "b1061902-3359-44ef-8f63-d03d842388c0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.7824 83.82 0)
+			(at 175.8924 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2315,7 +2315,7 @@
 	)
 	(global_label "Row 2"
 		(shape input)
-		(at 193.04 86.36 180)
+		(at 184.15 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2325,7 +2325,7 @@
 		)
 		(uuid "d2e140ef-debe-43b6-9ac0-41b62608fa72")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.7824 86.36 0)
+			(at 175.8924 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2339,7 +2339,7 @@
 	)
 	(global_label "Col 4"
 		(shape input)
-		(at 193.04 99.06 180)
+		(at 184.15 99.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2349,7 +2349,7 @@
 		)
 		(uuid "d757ee45-7d15-4c14-a4c3-aeede718992e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.7824 99.06 0)
+			(at 175.8924 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2363,7 +2363,7 @@
 	)
 	(global_label "Col 2"
 		(shape input)
-		(at 193.04 93.98 180)
+		(at 184.15 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2373,7 +2373,7 @@
 		)
 		(uuid "e8e794e5-83de-43c5-ab98-92e94a24b13b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.7824 93.98 0)
+			(at 175.8924 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2387,7 +2387,7 @@
 	)
 	(global_label "Row 3"
 		(shape input)
-		(at 193.04 88.9 180)
+		(at 184.15 88.9 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2397,7 +2397,7 @@
 		)
 		(uuid "f07eed40-ac53-4faa-9c8a-9678a3734343")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.7824 88.9 0)
+			(at 175.8924 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3067,7 +3067,7 @@
 	)
 	(symbol
 		(lib_id "RF_Module:ESP32-S3-MINI-1")
-		(at 208.28 93.98 0)
+		(at 199.39 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3078,7 +3078,7 @@
 		(fields_autoplaced yes)
 		(uuid "6e00c631-8faf-4c65-8421-4d344cd07875")
 		(property "Reference" "U1"
-			(at 210.4233 60.96 0)
+			(at 201.5333 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3089,7 +3089,7 @@
 			)
 		)
 		(property "Value" "ESP32-S3-MINI-1"
-			(at 210.4233 63.5 0)
+			(at 201.5333 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3100,7 +3100,7 @@
 			)
 		)
 		(property "Footprint" "RF_Module:ESP32-S2-MINI-1"
-			(at 223.52 123.19 0)
+			(at 214.63 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3111,7 +3111,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf"
-			(at 208.28 53.34 0)
+			(at 199.39 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3122,7 +3122,7 @@
 			)
 		)
 		(property "Description" "RF Module, ESP32-S3 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.3V, SMD, onboard antenna"
-			(at 208.28 50.8 0)
+			(at 199.39 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

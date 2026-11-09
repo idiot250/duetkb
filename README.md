@@ -1,5 +1,8 @@
 # duetkb
 
+![sch 1](sch1.png)
+![sch2](sch2.png)
+
 **An open-source split stenography keyboard.**
 
 duetkb is a DIY split stenography keyboard designed for fast, chord-based text input. It uses a compact two-piece layout, allowing both hands to operate independently while remaining connected to a single host computer.
